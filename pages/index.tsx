@@ -28,7 +28,7 @@ export default function Home() {
                   className='dark:text-white cursor-pointer text-2xl' />
               </li>
               <li>
-                <a className="text-xl bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-6 " href="#">
+                <a className="text-xl bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-6 " href="https://youtu.be/4sUt-W4s4Ms">
                   self-video
                 </a>
               </li>
@@ -143,13 +143,14 @@ export default function Home() {
                   用不一樣的方式挑戰新的框架跟技術<br />
                   順便驗收一下自己對於JavaScript的理解<br />
                   想透過新手做出自己的好看的個人網站，適當展現一下自己的態度<br />
-                  當然過程不是那麼順利，光是排版我就想了好久......<br /><br />
-                  總結來說<br />
+                  當然過程不是那麼順利，光是排版、部署就想了好久好久......<br /><br />
+                  不過，總結來說<br />
                   自己做了許多功課利用萬用的網路，看了諸多教學影片<br />
                   中間也加了一些有別於以往的調整和技術<br />
                   讓我再一次動手做的網頁還算滿意不會說是交差了事或是枯燥乏味<br />
                   主要是想呈現出<br />
-                  一個比較不一樣的報名態度 ＆ 想認真學好程式的心
+                  一個比較不一樣的報名態度 ＆ 蒐集資料的耐力<br />
+                  最後，想認真學好程式的心！
                 </p>
               </div>
             </div>
