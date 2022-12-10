@@ -35,7 +35,7 @@ export default function Home() {
             </ul>
           </nav>
           <div className='text-center p-10'>
-            <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl  dark:text-white'>AppWorkSchool</h2>
+            <h2 className='text-5xl py-2 text-teal-600 font-medium md:text-6xl  dark:text-white'>AppWorksSchool</h2>
             <p className='text-md py-5 ledding-8 text-teal-600 md:text-xl max-w-lg mx-auto dark:text-white'>
               經過三個月的自主學習<br />
               重新塑造有別於<a href="https://nealyang0.github.io/AppWorksSchool/%E8%87%AA%E6%88%91%E4%BB%8B%E7%B4%B9.html"><span className="text-blue-400">上一次</span></a>的申請表<br />
